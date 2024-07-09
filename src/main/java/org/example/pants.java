@@ -14,6 +14,6 @@ public class pants implements garment {
     // displays type and color of garment that goes with the pants
     @Override
     public void wear() {
-        System.out.println (occasion + " " + color + "pants");
+        System.out.println (occasion + " " + color + " pants");
     }
 }

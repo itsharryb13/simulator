@@ -13,6 +13,6 @@ public class shoe implements garment {
     // displays type and color of garment that goes with the top
     @Override
     public void wear() {
-        System.out.println (occasion + " " + color + "Shoes");
+        System.out.println (occasion + " " + color + " Shoes");
     }
 }
